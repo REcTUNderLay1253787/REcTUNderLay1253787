@@ -1,7 +1,8 @@
+![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-00529B?style=for-the-badge&logoColor=white)
 # About Me:
 I am currently a college student majoring at Bachelor of Science in Computer Science <br>at University of Mindanao.<br><br>I love programming, and deep diving into complex mysteries both in digital series and<br>real life problems.
 
-![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-00529B?style=for-the-badge&logoColor=white)
+
 
 
 
