@@ -1,8 +1,6 @@
 ![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700)
 
 
-![CCE](https://img.shields.io/badge/CCE-College%20of%20Computer%20Education-FFD700?style=for-the-badge&labelColor=000000)
-
 # About Me:
 I am currently a college student majoring at Bachelor of Science in Computer Science <br>at University of Mindanao.<br><br>I love programming, and deep diving into complex mysteries both in digital series and<br>real life problems.
 
