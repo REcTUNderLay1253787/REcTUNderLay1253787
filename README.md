@@ -1,6 +1,7 @@
 # About Me:
 I am currently a college student majoring at Bachelor of Science in Computer Science <br>at University of Mindanao.<br><br>I love programming, and deep diving into complex mysteries both in digital series and<br>real life problems.
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=github&logoColor=white)
 
 
 
