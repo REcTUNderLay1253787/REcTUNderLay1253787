@@ -6,7 +6,7 @@ I am currently a college student majoring at Bachelor of Science in Computer Sci
 
 
 # Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cs,cpp,figma,godot,java,lua,py,visualstudio,pycharm)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cs,cpp,figma,godot,java,lua,py,visualstudio,pycharm)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
