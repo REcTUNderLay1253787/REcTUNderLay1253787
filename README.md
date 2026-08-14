@@ -4,6 +4,11 @@
 # About Me:
 I am currently a college student majoring at Bachelor of Science in Computer Science <br>at University of Mindanao.<br><br>I love programming, and deep diving into complex mysteries both in digital series and<br>real life problems.
 
+# Motto:
+
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVkZzQzM2h4OTU2d2UwNDdodndldm80bTBycjVtdXYwczhpMGpmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif)
+
+
 
 # Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cs,cpp,figma,godot,java,lua,py,visualstudio,pycharm)
