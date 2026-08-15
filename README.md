@@ -12,8 +12,7 @@ I do random things that involves programming
   * 📧 reeceypun@gmail.com
 
 
-# Motto:
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVkZzQzM2h4OTU2d2UwNDdodndldm80bTBycjVtdXYwczhpMGpmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ReecePatrickPabriga/ReecePatrickPabriga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
