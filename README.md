@@ -1,6 +1,3 @@
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5ibmN5ejQwdGd6NGF6MzBrbzZ1ZGtpMjcxcWxleHBudnBxeHhsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5YhsREVV1OuO5PpMcR/giphy.gif)
-
-
 
 ![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700)
 
