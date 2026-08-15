@@ -2,7 +2,7 @@
 ![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700)
 
 # About Me:
-I do random things that involves programming <br> at University of Mindanao .<br><br>
+I do random things that involves programming
 
 
 # Tech Stack:
