@@ -6,7 +6,8 @@ I do random things that involves programming
 
 
 # Contact me at:
-  * 
+
+  * 📧 reeceypun@gmail.com
 
 # Skill Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,figma,godot,java,lua,py,visualstudio,pycharm)
