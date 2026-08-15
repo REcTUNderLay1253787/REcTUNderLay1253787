@@ -7,7 +7,9 @@
 </div>
 
 # About Me:
-I do random things that involves programming
+* Doing random things that involves programming
+* Solving cryptic problems from old gen games.
+* Creating games using Godot and RStudio engine.
 
 # Skill Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,figma,godot,java,lua,py,visualstudio,pycharm)
