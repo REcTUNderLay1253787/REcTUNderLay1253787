@@ -6,10 +6,7 @@ I do random things that involves programming
 
 
 # Contact me at:
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=reeceypun@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-</a>
-
+  * 
 
 # Skill Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,figma,godot,java,lua,py,visualstudio,pycharm)
