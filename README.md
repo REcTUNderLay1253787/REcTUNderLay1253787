@@ -8,7 +8,7 @@
 
 # About Me:
 * Doing random things that involves programming
-* Solving cryptic problems from old gen games.
+* Solving cryptic problems from old gen games using techniques such as Cipher Stacking and tools such as Python and CyberChef.
 * Creating games using Godot and RStudio engine.
 
 # Skill Stack:
