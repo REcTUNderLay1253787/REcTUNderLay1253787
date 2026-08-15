@@ -1,4 +1,10 @@
-![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700)
+<div align="center">
+
+<a href="https://umindanao.edu.ph/">
+  <img src="https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700" alt="University of Mindanao">
+</a>
+
+</div>
 
 # About Me:
 I do random things that involves programming
