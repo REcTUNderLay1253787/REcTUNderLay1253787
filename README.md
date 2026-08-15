@@ -6,7 +6,7 @@ I do random things that involves programming
 
 
 # Contact me at:
-![My Skills](https://skillicons.dev/icons?i=gmail)
+reeceypun@gmail.com ![My Social](https://skillicons.dev/icons?i=gmail) - 
 
 
 # Tech Stack:
