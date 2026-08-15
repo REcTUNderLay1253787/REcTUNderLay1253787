@@ -1,16 +1,15 @@
-
 ![University of Mindanao](https://img.shields.io/badge/University%20of%20Mindanao-UM-800000?style=for-the-badge&labelColor=800000&color=FFD700)
 
 # About Me:
 I do random things that involves programming
 
+# Skill Stack:
+![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,figma,godot,java,lua,py,visualstudio,pycharm)
+
 
 # Contact me at:
 
   * 📧 reeceypun@gmail.com
-
-# Skill Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,figma,godot,java,lua,py,visualstudio,pycharm)
 
 
 # Motto:
