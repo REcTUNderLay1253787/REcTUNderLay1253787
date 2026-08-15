@@ -12,7 +12,7 @@
 * Creating games using Godot and RStudio engine.
 
 # Skill Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,lua,py,github,godot,blendevisualstudio,pycharm,eclipse)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,lua,py,github,godot,blender,visualstudio,pycharm,eclipse)
 
 
 # Contact me at:
