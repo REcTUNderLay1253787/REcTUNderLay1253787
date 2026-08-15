@@ -6,7 +6,9 @@ I do random things that involves programming
 
 
 # Contact me at:
-![My Social](https://skillicons.dev/icons?i=gmail)  reeceypun@gmail.com 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=reeceypun@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+</a>
 
 
 # Tech Stack:
