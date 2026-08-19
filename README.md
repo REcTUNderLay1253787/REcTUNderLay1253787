@@ -24,7 +24,11 @@
 - 🐍 I use **Python** and **CyberChef** for scripting, problem solving, and decryption experiments
 - 🌱 Currently learning and improving my programming skills
 
----
+## 📫 Contact me at:
+
+  * 📧 reeceypun@gmail.com
+
+
 
 ## 🛠️ Technologies & Skills
 
@@ -47,10 +51,8 @@
 </p>
 
 #
-## 📫 Contact me at:
 
-  * 📧 reeceypun@gmail.com
-
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RPabriga&theme=dark&show_icons=true)
 
 
 
