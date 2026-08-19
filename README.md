@@ -50,8 +50,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse" />
 </p>
 
-#
+---
 
+## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RPabriga&theme=dark&show_icons=true)
 
 
