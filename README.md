@@ -14,6 +14,10 @@
 # Skill Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua,py,github,godot,blender,figma,visualstudio,pycharm,eclipse)
 
+#
+<p align="center">
+  <img src="github_optimized.gif" width="900">
+</p>
 
 # Contact me at:
 
