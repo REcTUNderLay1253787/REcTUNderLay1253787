@@ -13,15 +13,41 @@
 
 </div>
 
-## About Me:
-* Doing random things that involves programming
-* Solving cryptic problems from old gen games using techniques such as Cipher Stacking and tools to decrypt such as Python and CyberChef.
-* Creating games using Godot and RStudio engine.
 
-## Technologies and Skills:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua,py,github,godot,blender,figma,visualstudio,pycharm,eclipse)
+## 👨‍💻 About Me
 
-## Contact me at:
+- 🎓 Computer Science student at the **University of Mindanao**
+- 💻 I enjoy making random projects involving programming
+- 🔐 Interested in **cryptography, puzzles, and cybersecurity**
+- 🎮 Experimenting with game development using **RStudio and Godot engine**
+- 🧩 I enjoy solving old-school puzzles and cipher challenges
+- 🐍 I use **Python** and **CyberChef** for scripting, problem solving, and decryption experiments
+- 🌱 Currently learning and improving my programming skills
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,java,lua,python" />
+</p>
+
+### 🎮 Game Development & Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=godot,blender,figma" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse" />
+</p>
+
+#
+## 📫 Contact me at:
 
   * 📧 reeceypun@gmail.com
 
