@@ -11,8 +11,12 @@
 * Solving cryptic problems from old gen games using techniques such as Cipher Stacking and tools to decrypt such as Python and CyberChef.
 * Creating games using Godot and RStudio engine.
 
-## Skill Stack:
+## Technologies and Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua,py,github,godot,blender,figma,visualstudio,pycharm,eclipse)
+
+## Contact me at:
+
+  * 📧 reeceypun@gmail.com
 
 ##
 <p align="center">
@@ -22,9 +26,6 @@
 
 ##
 
-## Contact me at:
-
-  * 📧 reeceypun@gmail.com
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
