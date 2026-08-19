@@ -6,20 +6,23 @@
 
 </div>
 
-# About Me:
+## About Me:
 * Doing random things that involves programming
 * Solving cryptic problems from old gen games using techniques such as Cipher Stacking and tools to decrypt such as Python and CyberChef.
 * Creating games using Godot and RStudio engine.
 
-# Skill Stack:
+## Skill Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,lua,py,github,godot,blender,figma,visualstudio,pycharm,eclipse)
 
-#
+##
 <p align="center">
   <img src="github_optimized.gif" width="900">
 </p>
 
-# Contact me at:
+
+##
+
+## Contact me at:
 
   * 📧 reeceypun@gmail.com
 
